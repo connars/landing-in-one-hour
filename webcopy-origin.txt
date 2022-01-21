@@ -1,0 +1,136 @@
+Uri: http://project5086719.tilda.ws/
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/tild3136-3362-4761-b732-656239383461/-/resize/20x/303361005_2.png
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\tild3136-3362-4761-b732-656239383461\-\resize\20x\303361005_2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\index-1.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/tild3633-3164-4566-a531-653061623161/tildafavicon.ico
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\tild3633-3164-4566-a531-653061623161\tildafavicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3137-3131-4965-a662-396430393564/s.png
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\tild3137-3131-4965-a662-396430393564\s.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: http://project5086719.tilda.ws/tilda-blocks-2.14.css?t=1642614319
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://www.canva.com/design/DAE1hLP6-Eg/gNI-0ujUylahwe1c7euzuQ/view?utm_content=DAE1hLP6-Eg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\design\DAE1hLP6-Eg\gNI-0ujUylahwe1c7euzuQ\view.html
+Content Type: text/html
+
+Uri: https://xrpl.services/?issuer=rGtBVC62X6vPQP2gpaaHNHGxhNxGx7FEfH&currency=XSharkNFT&limit=5000
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\index-2.htm
+Content Type: text/html
+
+Uri: https://discord.com/invite/9tRxymT7
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\invite\9tRxymT7.html
+Content Type: text/html
+
+Uri: https://twitter.com/XRPSharkNFT
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\XRPSharkNFT.html
+Content Type: text/html
+
+Uri: https://sologenic.org/trade?market=58536861726B4E46540000000000000000000000%2BrGtBVC62X6vPQP2gpaaHNHGxhNxGx7FEfH%2FXRP&network=mainnet
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\trade.html
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/css/tilda-zero-gallery-1.0.min.css
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\css\tilda-zero-gallery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: http://project5086719.tilda.ws/tilda-blocks-2.7.js?t=1642614319
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3431-3861-4538-b835-306632393133/noroot.png
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\tild3431-3861-4538-b835-306632393133\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://tilda.cc/ua/
+File Name: C:\Users\Connars\Desktop\11111\project5086719.tilda.ws\ua\index.htm
+Content Type: text/html
+
